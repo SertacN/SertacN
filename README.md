@@ -21,6 +21,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=red)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=red)
 ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=61DBFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
