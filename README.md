@@ -22,13 +22,13 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=red)
 ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)
 ![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=61DBFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=for-the-badge&labelColor=black&logo=traefikproxy&logoColor=24A1C1)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639)
 
 <br/>
 <hr/>
