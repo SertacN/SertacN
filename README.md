@@ -1,6 +1,8 @@
+<!--
 <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSertacN1212%2Fhit-counter">
   <img align="right" src="https://komarev.com/ghpvc/?username=SertacN&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+-->
 <!--
 <h3 align="center">
         <samp>&gt; 👋 Hey There!, I am
