@@ -1,23 +1,5 @@
-<!--
-<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSertacN1212%2Fhit-counter">
-  <img align="right" src="https://komarev.com/ghpvc/?username=SertacN&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
--->
-<!--
-<h3 align="center">
-        <samp>&gt; 👋 Hey There!, I am
-                <b>@SertacN</b>
-        </samp>
-</h3>
-<h1>About me
- </h1> 
-<p>
--->
-<!--
-   Enjoy to do programming and sharing knowledge <br/><br/>
-   Love to writing code and learning new features<br/><br/>
-   Reach me anytime: <em> sertac.can1@gmail.com </em><br/><br/>
-</p>-->
+<h3 align="center">🌐 <a href="https://sertaccan.com">sertaccan.com</a></h3>
+
 <h2>Use To Code</h2>
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=red)
@@ -51,11 +33,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SertacN&theme=radical" alt="Sertac GitHub Contribution"/>
   </a>
 </p>
-
-<a>
- 
-
-<!---
-SertacN/SertacN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
